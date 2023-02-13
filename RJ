@@ -1,7 +1,7 @@
 API_ID=16553400
 API_HASH=e0ca5f5bf7d59b96c8abd76cc255deb2
 BOT_TOKEN=6260055907:AAE6HV98oBwhurGr1ZgfUULqeRT1-OXXgT8
-MONGO_DB_URI=mongodb+srv://Oyehoye:1234@1234@cluster0.dtlrryp.mongodb.net/?retryWrites=true&w=majority
+MONGO_DB_URI=mongodb+srv://Ajmishra143:Ajmishra143@cluster0.c5ra82h.mongodb.net/?retryWrites=true&w=majority
 OWNER_ID=5103097256
 LOG_GROUP_ID=-1001869198400
 MUSIC_BOT_NAME=CRAZY_FAMILY_MUSIC_BOT
